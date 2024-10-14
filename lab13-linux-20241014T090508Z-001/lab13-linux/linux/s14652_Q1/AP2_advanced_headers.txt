@@ -1,0 +1,6 @@
+AAK43967.fasta:AAK43967.1 putative AP2 domain-containing protein [Arabidopsis thaliana]
+AED90870.fasta:AED90870.1 DRE-binding protein 2A [Arabidopsis thaliana]
+combined.fasta:AAK43967.1 putative AP2 domain-containing protein [Arabidopsis thaliana]
+combined.fasta:AAK59861.1 At1g53910/T18A20_14 [Arabidopsis thaliana]
+combined.fasta:AED90870.1 DRE-binding protein 2A [Arabidopsis thaliana]
+combined.fasta:NP_567720.1 dehydration response element B1A [Arabidopsis thaliana]

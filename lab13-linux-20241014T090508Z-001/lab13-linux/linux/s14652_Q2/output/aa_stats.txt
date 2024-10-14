@@ -1,0 +1,4 @@
+Sequence Length : 1147
+Molecular Weight : 128469.92550000083
+Alanine Percemtage : 6.538796861377507
+Glycine Percentage : 6.800348735832607
